@@ -10,4 +10,6 @@
 #### `3-paths`: counts the number of directories in the `PATH`
 #### `4-global_variables`: lists environment variables
 #### `5-local_variables`: lists all local variables and environment variables, and functions.
-####
+#### `6-create_local_variable`: create a new local variable with Name: `BEST` Value: `School`
+#### `7-create_global_variable`: create a new global variable with Name: `BEST` Value: `School`
+
