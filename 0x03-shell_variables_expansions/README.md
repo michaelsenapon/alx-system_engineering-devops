@@ -1,6 +1,7 @@
-# Shell Scripts on Init files, Variables and Expansions
----
-## '0-alias' create a script that creates an alias:
+# Shell Scripts on Init files, Variables and Expansions 
 
-- Name: 'ls'
-- Value: 'rm *'
+---
+## *0-alias* create a script that creates an alias:
+
+- Name: `ls`
+- Value: `rm *`
